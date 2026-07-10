@@ -128,7 +128,7 @@ const Footer = () => {
         {/* --- Copyright / Trademark --- */}
         {/* Auto-updates year dynamically */}
         <p className="text-xs text-gray-400">
-          © {new Date().getFullYear()} Sandeep Kumar Yadav. All rights reserved.
+          © {new Date().getFullYear()} Sameer Alam. All rights reserved.
         </p>
       </motion.div>
     </footer>
